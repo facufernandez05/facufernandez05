@@ -7,10 +7,9 @@
 ### 👨‍💻 Sobre mí
 Soy un apasionado de la tecnología y el desarrollo de software. Me enfoco en crear soluciones eficientes y escalables mientras aprendo constantemente nuevas herramientas.
 
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto principal]**
-- 🌱 Estoy profundizando mis conocimientos en **[Tecnología que estés aprendiendo, ej: React, Go, AWS]**
-- 💬 Pregúntame sobre **[Tus temas fuertes, ej: Python, JavaScript, Estructura de Datos]**
-- ⚡ Dato curioso: **[Algo único sobre ti, ej: Me encanta el café de especialidad o soy cinturón negro en X]**
+- 🔭 Actualmente estoy trabajando como **Freelancer en busca de nuevos proyectos.**
+- 🌱 Estoy profundizando mis conocimientos en **Kubernetes, Edge Computing, Vercel AI SDK.**
+- 💬 Pregúntame sobre **Analísis de Sistemas, UX/UI y Estructuras de datos.**
 
 ---
 
@@ -40,9 +39,8 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me enfoco en cr
 ### 📫 Contacto
 ¿Quieres charlar sobre algún proyecto o simplemente conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facufernandez-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facumatiasfernandez@gmail.com)
 
 ---
 <p align="center">
